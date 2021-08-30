@@ -1,8 +1,8 @@
 # Kodluyoruz İlk Repo
 ![Foto](https://picsum.photos/id/237/200/300)
 ---
-Bu repo [Kodluyoruz](https://kodluyoruz.org)Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-# Installion
+Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+# Installation
 
 Öncelikle projeyi clonelayın.
 
